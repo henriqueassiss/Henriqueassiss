@@ -1,4 +1,4 @@
-<img src="images/vector.png" min-height="340px" max-height="340px" height="340px" align="right" alt="Vector">
+<img src="vector.png" min-height="340px" max-height="340px" height="340px" align="right" alt="Vector">
 
 <h3 align="left">
   Hello!
