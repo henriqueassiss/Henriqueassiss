@@ -14,10 +14,6 @@
 </p>
 
 <p align="left">
-  🎮 Hobbies: <strong>Music, Ciclism, Poker, Videogame.</strong>
-</p>
-
-<p align="left">
   🧐 Currently Learning: <strong>ReactJS</strong> and <strong>React Native</strong>
 </p>
 
