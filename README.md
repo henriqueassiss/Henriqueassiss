@@ -4,10 +4,6 @@
   Hello!
 </h3>
 
-<font size=10 align="left">
-  Hello!
-</font>
-
 <p align="left">
   I'm Henrique, a Computer Engineering student.<br>
   Nowadays I'm focused everyday on improving my <strong>Programming</strong> skills.
