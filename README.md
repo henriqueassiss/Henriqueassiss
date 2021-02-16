@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  🧐 Access My Portfolio: <a href="https://henriqueassiss.github.io/portfolio/" target="_blank">Portfolio</a>
+  📋 Access My Portfolio: <a href="https://henriqueassiss.github.io/portfolio/" target="_blank">Click Here</a>
 </p>
 
 <p align="left">
