@@ -18,6 +18,10 @@
 </p>
 
 <p align="left">
+  🧐 Access My Portfolio: <a href="https://henriqueassiss.github.io/portfolio/" target="_blank" alt="Portfolio">
+</p>
+
+<p align="left">
   💬 I am open to new proposals, be it new projects, creative ideas or great opportunities. Here are my social networks 👇
 </p>
 
