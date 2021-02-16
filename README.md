@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🧐 Currently Learning: <strong>ReactJS</strong> and <strong>React Native</strong>
+  🧐 Currently Learning: <strong>ReactJS</strong>
 </p>
 
 <p align="left">
