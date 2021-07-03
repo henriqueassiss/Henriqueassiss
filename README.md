@@ -14,10 +14,6 @@
 </p>
 
 <p align="left">
-  🧐 Currently Learning: <strong>ReactJS</strong>
-</p>
-
-<p align="left">
   📋 Access My Portfolio: <a href="https://henriqueassiss.github.io/portfolio/" target="_blank">Click Here</a>
 </p>
 
