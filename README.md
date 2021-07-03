@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💻 Skills: <strong>HTML5, CSS3, JavaScript, Flutter, C/C++, Java.</strong>
+  💻 Skills: <strong>HTML5, CSS3, JavaScript, Typescript, ReactJS, React Native, PHP.</strong>
 </p>
 
 <p align="left">
