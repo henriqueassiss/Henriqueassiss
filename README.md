@@ -6,19 +6,19 @@
 
 <p align="left">
   I'm Henrique, a Computer Engineering student.<br>
-  Nowadays I'm focused everyday on improving my <strong>Programming</strong> skills.
+  Nowadays I work as a full stack developer, seeking everyday to improve my own skills.
 </p>
 
 <p align="left">
-  💻 Skills: <strong>HTML5, CSS3, JavaScript, Typescript, ReactJS, React Native, PHP.</strong>
+  💻 Skills: <strong>React.js, Node.js, Javascript/Typescript, React Native.</strong>
 </p>
 
 <p align="left">
-  📋 Access My Portfolio: <a href="https://henriqueassiss.github.io/portfolio/" target="_blank">Click Here</a>
+  📋 Access My Resume: <a href="https://drive.google.com/file/d/1Rx16lbeNa74IWSlWInIRs4LIj0maQP6I/view?usp=sharing" target="_blank">Click Here</a>
 </p>
 
 <p align="left">
-  💬 I am open to new proposals, be it new projects, creative ideas or great opportunities. Here are my social networks 👇
+  💬 Currently I would listen to new proposals, like new projects, creative ideas or great opportunities. Here are my social networks 👇
 </p>
 
 <div align="left">
@@ -27,8 +27,5 @@
   </a>
   <a href="https://www.linkedin.com/in/henriqueassiss/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henriqueassiss/"/>
-  </a>
-  <a href="https://web.facebook.com/henryassis10" target="_blank" alt="Facebook" style="">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/henryassis10"/>
   </a>
 </div> 
