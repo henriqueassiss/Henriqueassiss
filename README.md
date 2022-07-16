@@ -1,4 +1,6 @@
-<img src="vector.png" min-height="340px" max-height="340px" height="340px" align="right" alt="Vector">
+<a href="https://app.daily.dev/henriqueassiss" align="right>
+  <img src="https://api.daily.dev/devcards/9d9c7238073942fb8664621ae9760d19.png?r=n79" width="400" alt="Henrique Assis's Dev Card"/>
+</a>
 
 <h3 align="left">
   Hello!
