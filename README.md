@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  📋 Access My Resume: <a href="https://drive.google.com/file/d/1Rx16lbeNa74IWSlWInIRs4LIj0maQP6I/view?usp=sharing" target="_blank">Click Here</a>
+  📋 Access My Resume: <a href="https://drive.google.com/file/d/1VKrFolxQ8b8fMMHVA5qQcMI8vt83-xpv/view?usp=sharing" target="_blank">Click Here</a>
 </p>
 
 <p align="left">
