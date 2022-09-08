@@ -5,12 +5,16 @@
 </h3>
 
 <p align="left">
-  I'm Henrique, a Computer Engineering student.<br>
+  I'm Henrique, a computer engineer.<br>
   Nowadays I work as a full stack developer, seeking everyday to improve my own skills.
 </p>
 
 <p align="left">
-  💻 Skills: <strong>React.js, Node.js, Javascript/Typescript, React Native.</strong>
+  💻 Main Stack: <strong>React.js, Node.js, PostgreSQL.</strong>
+</p>
+
+<p align="left">
+  💻 Other Strong Skills: <strong>PHP, Javascript/Typescript, React Native, Docker.</strong>
 </p>
 
 <p align="left">
