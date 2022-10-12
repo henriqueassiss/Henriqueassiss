@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💻 Other Strong Skills: <strong>PHP, Javascript/Typescript, React Native, Docker.</strong>
+  💻 Other Strong Skills: <strong>PHP, Javascript/Typescript, React Native, Kotlin, Docker.</strong>
 </p>
 
 <p align="left">
