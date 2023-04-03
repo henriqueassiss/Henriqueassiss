@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  💻 Main Stack: <strong>React.js, Node.js, PostgreSQL.</strong>
+  💻 Main Stack: <strong>React.js, Golang, PostgreSQL, Docker.</strong>
 </p>
 
 <p align="left">
-  💻 Other Strong Skills: <strong>PHP, Javascript/Typescript, React Native, Kotlin, Docker.</strong>
+  💻 Other Strong Skills: <strong>React Native, Node.js, Javascript/Typescript, React Native.</strong>
 </p>
 
 <p align="left">
