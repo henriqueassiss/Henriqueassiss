@@ -10,19 +10,19 @@
 </p>
 
 <p align="left">
-  💻 Main Stack: <strong>React.js, Golang, PostgreSQL, Docker.</strong>
+  💻 Main Stack: <strong>Next.js/React.js, Golang, PostgreSQL, Docker.</strong>
 </p>
 
 <p align="left">
-  💻 Other Strong Skills: <strong>React Native, Node.js, Javascript/Typescript, React Native.</strong>
+  💻 Other Strong Skills: <strong>React Native, Express.js/Nest.js/Node.js, Javascript/Typescript.</strong>
 </p>
 
 <p align="left">
-  📋 Access My Resume: <a href="https://drive.google.com/file/d/1VKrFolxQ8b8fMMHVA5qQcMI8vt83-xpv/view?usp=sharing" target="_blank">Click Here</a>
+  📋 Access My Resume: <a href="https://drive.google.com/file/d/18TDtk4yHyULEG4V4MrYNZYzPO-JJDFxX/view?usp=sharing" target="_blank">Click Here</a>
 </p>
 
 <p align="left">
-  💬 Currently I would listen to new proposals, like new projects, creative ideas or great opportunities. Here are my social networks 👇
+  💬 Currently I would like to listen to new proposals, like new projects, creative ideas or great opportunities. Here are my social networks 👇
 </p>
 
 <div align="left">
