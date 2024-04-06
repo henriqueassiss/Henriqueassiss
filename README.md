@@ -5,24 +5,23 @@
 </h3>
 
 <p align="left">
-  I'm Henrique, a computer engineer.<br>
-  Nowadays I work as a full stack developer, seeking everyday to improve my own skills.
+  I'm Henrique (but you can call me Rick if you want to), a senior software engineer with +7 years of experience.<br>
 </p>
 
 <p align="left">
-  💻 Main Stack: <strong>Next.js/React.js, Golang, PostgreSQL, Docker.</strong>
+  💻 The stack that I love: <strong>Next.js/React.js, Golang, PostgreSQL, Docker.</strong>
 </p>
 
 <p align="left">
-  💻 Other Strong Skills: <strong>React Native, Express.js/Nest.js/Node.js, Javascript/Typescript.</strong>
+  💻 Other Strong Skills: <strong>React Native, Node.js, Javascript/Typescript, Redis.</strong>
 </p>
 
 <p align="left">
-  📋 Access My Resume: <a href="https://drive.google.com/file/d/18TDtk4yHyULEG4V4MrYNZYzPO-JJDFxX/view?usp=sharing" target="_blank">Click Here</a>
+  📋 Access My Resume: <a href="https://drive.google.com/file/d/147aNAFZ3kYVw2St06ySI1iFO99nXB0mW/view?usp=drive_link" target="_blank">Click Here</a>
 </p>
 
 <p align="left">
-  💬 Currently I would like to listen to new proposals, like new projects, creative ideas or great opportunities. Here are my social networks 👇
+  💬 Have a proposal? Here are my social networks 👇
 </p>
 
 <div align="left">
