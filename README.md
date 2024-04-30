@@ -5,7 +5,7 @@
 </h3>
 
 <p align="left">
-  I'm Henrique (but you can call me Rick if you want to), a senior software engineer with +7 years of experience.<br>
+  I'm Henrique (but you can call me Rick if you want to), a senior software engineer with +4 years of experience.<br>
 </p>
 
 <p align="left">
