@@ -5,15 +5,15 @@
 </h3>
 
 <p align="left">
-  I'm Henrique (but you can call me Rick if you want to), a senior software engineer with +4 years of experience.<br>
+  I'm Henrique (but you can call me Rick if you want to), a software engineer with +4 years of experience.<br>
 </p>
 
 <p align="left">
-  💻 The stack that I love: <strong>Next.js/React.js, Golang, PostgreSQL, Docker.</strong>
+  💻 The stack that I love: <strong>Next.js/React.js, Golang, PostgreSQL</strong>
 </p>
 
 <p align="left">
-  💻 Other Strong Skills: <strong>React Native, Node.js, Javascript/Typescript, Redis.</strong>
+  💻 Other Strong Skills: <strong>React Native, Node.js, Javascript/Typescript</strong>
 </p>
 
 <p align="left">
